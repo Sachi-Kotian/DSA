@@ -13,8 +13,15 @@ public class W01_SwapTwoNos {
         arr[0]=a;
         arr[1]=b;
         return arr;
+
+        //without temp variable logic
+        // a = a + b;
+        // b = a - b;
+        // a = a - b;
         
-    }
+}
+        
+    
 
     public static void main(String args[]){
         int[] result=swap(5,7);
@@ -25,4 +32,3 @@ public class W01_SwapTwoNos {
 
     }
 }
-
