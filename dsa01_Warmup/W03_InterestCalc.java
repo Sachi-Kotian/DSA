@@ -1,5 +1,9 @@
 package dsa01_Warmup;
 
+//Time complexity:O(1) because of built in power operation
+//Space complexity:O(1)
+
+
 public class W03_InterestCalc {
 
     public static double[] interest(double principal, double rate, double time) {

@@ -1,5 +1,8 @@
 package dsa01_Warmup;
 
+//Time complexity:O(1)
+//Space complexity:O(1)
+
 public class W02_TempConvert {
     
     public static double convert(double temp, String scale) {

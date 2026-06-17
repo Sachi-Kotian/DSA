@@ -1,5 +1,10 @@
 package dsa01_Warmup;
 
+//Time complexity-O(1)
+//Space complexity-O(1)
+
+
+
 public class W07_AreaPerimeter {
     
     public static double[] areaAndPerimeter(String shape, double[] dims) {
